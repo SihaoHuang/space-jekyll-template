@@ -1,18 +1,17 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Sihao Huang - Aerospace Architect
+description: "Sihao's Personal Website"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
+username: Sihao Huang
 user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
+email: sihao.c.huang@gmail.com
 twitter_username: loremipsum
 github_username:  loremipsum
 gplus_username:  loremipsum
 disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
-
+profile_picture: https://static1.squarespace.com/static/56eefa11c2ea5104511e19eb/t/58f405fd9f7456f923447c9b/1492636593020/Sihao_Huang?format=1000w
 # Build settings
 markdown: kramdown
 highlighter: rouge
